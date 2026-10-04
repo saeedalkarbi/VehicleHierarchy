@@ -1,0 +1,14 @@
+C:\Users\Saeed\Desktop\الواجب3\bin\Debug\net8.0\الواجب3.exe
+C:\Users\Saeed\Desktop\الواجب3\bin\Debug\net8.0\الواجب3.deps.json
+C:\Users\Saeed\Desktop\الواجب3\bin\Debug\net8.0\الواجب3.runtimeconfig.json
+C:\Users\Saeed\Desktop\الواجب3\bin\Debug\net8.0\الواجب3.dll
+C:\Users\Saeed\Desktop\الواجب3\bin\Debug\net8.0\الواجب3.pdb
+C:\Users\Saeed\Desktop\الواجب3\obj\Debug\net8.0\الواجب3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed\Desktop\الواجب3\obj\Debug\net8.0\الواجب3.AssemblyInfoInputs.cache
+C:\Users\Saeed\Desktop\الواجب3\obj\Debug\net8.0\الواجب3.AssemblyInfo.cs
+C:\Users\Saeed\Desktop\الواجب3\obj\Debug\net8.0\الواجب3.csproj.CoreCompileInputs.cache
+C:\Users\Saeed\Desktop\الواجب3\obj\Debug\net8.0\الواجب3.dll
+C:\Users\Saeed\Desktop\الواجب3\obj\Debug\net8.0\refint\الواجب3.dll
+C:\Users\Saeed\Desktop\الواجب3\obj\Debug\net8.0\الواجب3.pdb
+C:\Users\Saeed\Desktop\الواجب3\obj\Debug\net8.0\الواجب3.genruntimeconfig.cache
+C:\Users\Saeed\Desktop\الواجب3\obj\Debug\net8.0\ref\الواجب3.dll

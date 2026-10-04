@@ -1,0 +1,14 @@
+C:\Users\Saeed\Desktop\الواجب الرابع\bin\Debug\net8.0\الواجب الرابع.exe
+C:\Users\Saeed\Desktop\الواجب الرابع\bin\Debug\net8.0\الواجب الرابع.deps.json
+C:\Users\Saeed\Desktop\الواجب الرابع\bin\Debug\net8.0\الواجب الرابع.runtimeconfig.json
+C:\Users\Saeed\Desktop\الواجب الرابع\bin\Debug\net8.0\الواجب الرابع.dll
+C:\Users\Saeed\Desktop\الواجب الرابع\bin\Debug\net8.0\الواجب الرابع.pdb
+C:\Users\Saeed\Desktop\الواجب الرابع\obj\Debug\net8.0\الواجب الرابع.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed\Desktop\الواجب الرابع\obj\Debug\net8.0\الواجب الرابع.AssemblyInfoInputs.cache
+C:\Users\Saeed\Desktop\الواجب الرابع\obj\Debug\net8.0\الواجب الرابع.AssemblyInfo.cs
+C:\Users\Saeed\Desktop\الواجب الرابع\obj\Debug\net8.0\الواجب الرابع.csproj.CoreCompileInputs.cache
+C:\Users\Saeed\Desktop\الواجب الرابع\obj\Debug\net8.0\الواجب الرابع.dll
+C:\Users\Saeed\Desktop\الواجب الرابع\obj\Debug\net8.0\refint\الواجب الرابع.dll
+C:\Users\Saeed\Desktop\الواجب الرابع\obj\Debug\net8.0\الواجب الرابع.pdb
+C:\Users\Saeed\Desktop\الواجب الرابع\obj\Debug\net8.0\الواجب الرابع.genruntimeconfig.cache
+C:\Users\Saeed\Desktop\الواجب الرابع\obj\Debug\net8.0\ref\الواجب الرابع.dll
